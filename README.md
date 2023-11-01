@@ -66,31 +66,31 @@
   </tr>
   <tr>
     <td> 월(JAVA) </td>
-    <td> [두수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803) </td>
+    <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120803"> 두수의 차</a> </td>
   </tr>
   <tr>
     <td> 화(SQL) </td>
-    <td> [나이정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528) </td>
+    <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131528"> 나이정보가 없는 회원 수 구하기</a>  </td>
   </tr>
   <tr>
     <td> 수(JAVA) </td>
-    <td> [두수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804)</td>
+    <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120804"> 두수의 곱</a> </td>
   </tr>
   <tr>
     <td> 목(SQL) </td>
-    <td> [아픈 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59036)</td>
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59036"> 아픈 동물 찾기</a> </td>
   </tr>
   <tr>
     <td> 금(JAVA) SQL </td>
-    <td> [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810)</td>
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120810"> 나머지 구하기 </a></td>
   </tr>
   <tr>
     <td> 토(SQL) </td>
-    <td> [어린 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59037) </td>
+    <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59037"> 어린 동물 찾기 </a> </td>
   </tr>
   <tr>
     <td> 일(JAVA) </td>
-    <td> [몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805) </td>
+    <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120805"> 몫 구하기</a> </td>
   </tr>
 
 </table>
