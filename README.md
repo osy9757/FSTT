@@ -54,8 +54,9 @@
 <br/>
 
 ## 📌 스터디 규칙
-- 일주일 간 매일 한 문제를 푼다. (Java 4문제, SQL 3문제)
-- 푼 내용을 해당 깃헙에 push한다.
+- 일주일 간 매일 한 문제를 푼다. (Java 4문제(월, 수, 금, 일), SQL 3문제(화, 목, 토))
+- 푼 내용을 해당 깃헙에 push 하고, 각자 기술 블로그에 업로드한다.
+- 다음 날 등교 전날까지 풀어온다.
 
 ## 💻 주차 별 문제
 <table>
@@ -64,32 +65,32 @@
     <td>문제</td>
   </tr>
   <tr>
-    <td> JAVA </td>
+    <td> 월(JAVA) </td>
     <td> [두수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803) </td>
   </tr>
   <tr>
-    <td> JAVA </td>
-    <td> [두수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804) </td>
-  </tr>
-  <tr>
-    <td> JAVA </td>
-    <td> [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810) </td>
-  </tr>
-  <tr>
-    <td> JAVA </td>
-    <td> [몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805) </td>
-  </tr>
-  <tr>
-    <td> SQL </td>
+    <td> 화(SQL) </td>
     <td> [나이정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528) </td>
   </tr>
   <tr>
-    <td> SQL </td>
-    <td> [아픈 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59036) </td>
+    <td> 수(JAVA) </td>
+    <td> [두수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804)</td>
   </tr>
   <tr>
-    <td> SQL </td>
+    <td> 목(SQL) </td>
+    <td> [아픈 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59036)</td>
+  </tr>
+  <tr>
+    <td> 금(JAVA) SQL </td>
+    <td> [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810)</td>
+  </tr>
+  <tr>
+    <td> 토(SQL) </td>
     <td> [어린 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59037) </td>
+  </tr>
+  <tr>
+    <td> 일(JAVA) </td>
+    <td> [몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805) </td>
   </tr>
 
 </table>
