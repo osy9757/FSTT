@@ -54,6 +54,42 @@
 <br/>
 
 ## 📌 스터디 규칙
+- 일주일 간 매일 한 문제를 푼다. (Java 4문제, SQL 3문제)
+- 푼 내용을 해당 깃헙에 push한다.
 
+## 💻 주차 별 문제
+<table>
+  <tr>
+    <td>1주차(2023.11.06. ~ 2023. 11. 12)</td>
+    <td>문제</td>
+  </tr>
+  <tr>
+    <td> JAVA </td>
+    <td> [두수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803) </td>
+  </tr>
+  <tr>
+    <td> JAVA </td>
+    <td> [두수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804) </td>
+  </tr>
+  <tr>
+    <td> JAVA </td>
+    <td> [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810) </td>
+  </tr>
+  <tr>
+    <td> JAVA </td>
+    <td> [몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805) </td>
+  </tr>
+  <tr>
+    <td> SQL </td>
+    <td> [나이정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528) </td>
+  </tr>
+  <tr>
+    <td> SQL </td>
+    <td> [아픈 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59036) </td>
+  </tr>
+  <tr>
+    <td> SQL </td>
+    <td> [어린 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59037) </td>
+  </tr>
 
-## 💻 PR 규칙
+</table>
