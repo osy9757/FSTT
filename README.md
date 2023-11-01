@@ -81,7 +81,7 @@
     <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59036"> 아픈 동물 찾기</a> </td>
   </tr>
   <tr>
-    <td> 금(JAVA) SQL </td>
+    <td> 금(JAVA) </td>
     <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120810"> 나머지 구하기 </a></td>
   </tr>
   <tr>
