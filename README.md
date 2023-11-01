@@ -54,7 +54,49 @@
 <br/>
 
 ## 📌 스터디 규칙
+- 일주일 간 매일 한 문제를 푼다. (Java 4문제(월, 수, 금, 일), SQL 3문제(화, 목, 토))
+- 푼 내용을 해당 깃헙에 push 하고, 각자 기술 블로그에 업로드한다.
+- 다음 날 등교 전날까지 풀어온다.
 
+## 💻 PR 규칙
+
+
+## 📝 주차 별 문제
+<table>
+  <tr>
+    <td>1주차(2023.11.06. ~ 2023. 11. 12)</td>
+    <td>문제</td>
+  </tr>
+  <tr>
+    <td> 월(JAVA) </td>
+    <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120803"> 두수의 차</a> </td>
+  </tr>
+  <tr>
+    <td> 화(SQL) </td>
+    <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131528"> 나이정보가 없는 회원 수 구하기</a>  </td>
+  </tr>
+  <tr>
+    <td> 수(JAVA) </td>
+    <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120804"> 두수의 곱</a> </td>
+  </tr>
+  <tr>
+    <td> 목(SQL) </td>
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59036"> 아픈 동물 찾기</a> </td>
+  </tr>
+  <tr>
+    <td> 금(JAVA) </td>
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120810"> 나머지 구하기 </a></td>
+  </tr>
+  <tr>
+    <td> 토(SQL) </td>
+    <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59037"> 어린 동물 찾기 </a> </td>
+  </tr>
+  <tr>
+    <td> 일(JAVA) </td>
+    <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120805"> 몫 구하기</a> </td>
+  </tr>
+
+</table>
 
 ## 💻 PR 규칙
 
@@ -72,3 +114,4 @@
 |     |               |  |  |                                                              | `시작 전`   |
 |     |               |  |  |                                                              | `시작 전`   |
 |     |               |  |  |                                                              | `시작 전`   |
+
