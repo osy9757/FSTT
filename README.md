@@ -35,14 +35,14 @@
 
 <table>
  <tr>
-    <td align="center"><a href="https://github.com/jinny-l"><img src="https://avatars.githubusercontent.com/osy9757" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/HyowonSin"><img src="https://avatars.githubusercontent.com/jeong-yooon" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/jaea-kim"><img src="https://avatars.githubusercontent.com/seoyeonchoi" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/osy9757"><img src="https://avatars.githubusercontent.com/osy9757" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/jeong-yooon"><img src="https://avatars.githubusercontent.com/jeong-yooon" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/seoyeonchoi"><img src="https://avatars.githubusercontent.com/seoyeonchoi" width="130px;" alt=""></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/jinny-l"><b>osy9757</b></a></td>
-    <td align="center"><a href="https://github.com/HyowonSin"><b>jeong-yooon</b></a></td>
-    <td align="center"><a href="https://github.com/jaea-kim"><b>seoyeonchoi</b></a></td>
+    <td align="center"><a href="https://github.com/osy9757"><b>osy9757</b></a></td>
+    <td align="center"><a href="https://github.com/jeong-yooon"><b>jeong-yooon</b></a></td>
+    <td align="center"><a href="https://github.com/seoyeonchoi"><b>seoyeonchoi</b></a></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"><br/><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></td>
