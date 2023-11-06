@@ -35,14 +35,14 @@
 
 <table>
  <tr>
-    <td align="center"><a href="https://github.com/jinny-l"><img src="https://avatars.githubusercontent.com/osy9757" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/HyowonSin"><img src="https://avatars.githubusercontent.com/jeong-yooon" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/jaea-kim"><img src="https://avatars.githubusercontent.com/seoyeonchoi" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/osy9757"><img src="https://avatars.githubusercontent.com/osy9757" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/jeong-yooon"><img src="https://avatars.githubusercontent.com/jeong-yooon" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/seoyeonchoi"><img src="https://avatars.githubusercontent.com/seoyeonchoi" width="130px;" alt=""></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/jinny-l"><b>osy9757</b></a></td>
-    <td align="center"><a href="https://github.com/HyowonSin"><b>jeong-yooon</b></a></td>
-    <td align="center"><a href="https://github.com/jaea-kim"><b>seoyeonchoi</b></a></td>
+    <td align="center"><a href="https://github.com/osy9757"><b>osy9757</b></a></td>
+    <td align="center"><a href="https://github.com/jeong-yooon"><b>jeong-yooon</b></a></td>
+    <td align="center"><a href="https://github.com/seoyeonchoi"><b>seoyeonchoi</b></a></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"><br/><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></td>
@@ -66,31 +66,31 @@
   </tr>
   <tr>
     <td> 월(JAVA) </td>
-    <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120803"> 두수의 차</a> </td>
+    <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120803" target="_blank"> 두수의 차</a> </td>
   </tr>
   <tr>
     <td> 화(SQL) </td>
-    <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131528"> 나이정보가 없는 회원 수 구하기</a>  </td>
+    <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131528" target="_blank"> 나이정보가 없는 회원 수 구하기</a>  </td>
   </tr>
   <tr>
     <td> 수(JAVA) </td>
-    <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120804"> 두수의 곱</a> </td>
+    <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120804" target="_blank"> 두수의 곱</a> </td>
   </tr>
   <tr>
     <td> 목(SQL) </td>
-    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59036"> 아픈 동물 찾기</a> </td>
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59036" target="_blank"> 아픈 동물 찾기</a> </td>
   </tr>
   <tr>
     <td> 금(JAVA) </td>
-    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120810"> 나머지 구하기 </a></td>
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120810" target="_blank"> 나머지 구하기 </a></td>
   </tr>
   <tr>
     <td> 토(SQL) </td>
-    <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59037"> 어린 동물 찾기 </a> </td>
+    <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59037" target="_blank"> 어린 동물 찾기 </a> </td>
   </tr>
   <tr>
     <td> 일(JAVA) </td>
-    <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120805"> 몫 구하기</a> </td>
+    <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120805" target="_blank"> 몫 구하기</a> </td>
   </tr>
 
 </table>
@@ -101,18 +101,18 @@
 {태그}: [문제_제목] {커밋 메시지}
 ```
 
-| 태그     | 설명                                |
-|:------------|:--------------------------------|
-| feat     | 코드 구현                           |
-| refactor | 코드 수정                           |
+| 태그     | 설명                                  |
+|:---------|:--------------------------------------|
+| feat     | 코드 구현                             |
+| refactor | 코드 수정                             |
 | comment  | 주석 추가(코드 변경 X) 혹은 오타 수정 |
-| docs     | README와 같은 문서 수정             |
-| merge    | merge                              |
-| rename   | 파일, 폴더명 수정 혹은 이동          |
+| docs     | README와 같은 문서 수정               |
+| merge    | merge                                 |
+| rename   | 파일, 폴더명 수정 혹은 이동           |
 
 ## 💻 PR 규칙
 ```
-{월 주차 요일}: {이름} - [문제 번호] {문제 제목}
+{월 주차 요일}: {이름} - [날짜] {문제 제목}
 ```
 - 💡 예시: `11월 1주차 수요일: 최정윤 - [231106] 두수의 차`
 
