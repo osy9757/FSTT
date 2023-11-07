@@ -74,7 +74,9 @@
   </tr>
   <tr>
     <td> 수(JAVA) </td>
-    <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120804" target="_blank"> 두수의 곱</a> </td>
+    <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120804" target="_blank"> 두수의 곱</a> <br>
+        <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120807" target="_blank"> 숫자 비교하기</a>
+    </td>
   </tr>
   <tr>
     <td> 목(SQL) </td>
@@ -82,7 +84,9 @@
   </tr>
   <tr>
     <td> 금(JAVA) </td>
-    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120810" target="_blank"> 나머지 구하기 </a></td>
+    <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120810" target="_blank"> 나머지 구하기 </a> <br>
+        <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120820" target="_blank"> 나이 출력 </a>
+    </td>
   </tr>
   <tr>
     <td> 토(SQL) </td>
@@ -90,7 +94,9 @@
   </tr>
   <tr>
     <td> 일(JAVA) </td>
-    <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120805" target="_blank"> 몫 구하기</a> </td>
+    <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120805" target="_blank"> 몫 구하기</a> <br>
+        <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120802" target="_blank"> 두 수의 합 </a>
+    </td>
   </tr>
 
 </table>
