@@ -59,9 +59,13 @@
 - 다음 날 등교 전날까지 풀어온다.
 
 ## 📝 주차 별 문제
-<table>
+
+<details>
+  <summary> <b>NOW</b> 11월 2주차 </summary>
+  <br>
+  <table>
   <tr>
-    <td>1주차(2023.11.06. ~ 2023. 11. 12)</td>
+    <td> 11월 2주차(2023.11.06. ~ 2023. 11. 12)</td>
     <td>문제</td>
   </tr>
   <tr>
@@ -98,8 +102,68 @@
         <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120802" target="_blank"> 두 수의 합 </a>
     </td>
   </tr>
+  </table>
+</details>
 
-</table>
+<details>
+  <summary>11월 3주차</summary>
+  <br>
+  <table>
+    <tr>
+      <td> 11월 3주차(2023.11.13. ~ 2023. 11. 19)</td>
+      <td>문제</td>
+    </tr>
+    <tr>
+      <td> 월(JAVA) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120806" target="_blank"> 두수의 나눗셈</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120829" target="_blank"> 각도기 </a> <br>
+           <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120831" target="_blank"> 짝수의 합 </a> 
+      </td>
+    </tr>
+    <tr>
+      <td> 화(SQL) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59406" target="_blank"> 동물 수 구하기</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59405" target="_blank"> 상위 n개 레코드 </a>
+      </td>
+    </tr>
+    <tr>
+      <td> 수(JAVA) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120817" target="_blank"> 배열의 평균값 </a> <br>
+          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120830" target="_blank"> 양꼬치 </a> <br>
+          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120898" target="_blank"> 편지 </a>
+      </td>
+    </tr>
+    <tr>
+      <td> 목(SQL) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59038" target="_blank"> 최솟값 구하기</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59408" target="_blank"> 중복 제거하기 </a> 
+      </td>
+    </tr>
+    <tr>
+      <td> 금(JAVA) </td>
+      <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120814" target="_blank"> 피자 나눠먹기 </a> <br>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120889" target="_blank"> 삼각형의 완성조건(1) </a> <br>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120811" target="_blank"> 중앙값 구하기 </a>
+      </td>
+    </tr>
+    <tr>
+      <td> 토(SQL) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59407" target="_blank"> 이름이 있는 동물의 아이디 </a> <br>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59041" target="_blank"> 동명 동물 수 찾기</a>
+      </td>
+    </tr>
+    <tr>
+      <td> 일(JAVA) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120819" target="_blank"> 아이스 아메리카노 </a> <br>
+          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120816" target="_blank"> 피자 나눠먹기(3) </a> <br>
+          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120826" target="_blank"> 특정 문자 제거하기 </a>
+      </td>
+    </tr>
+  
+  </table>
+</details>
+
+
 
 ## 💻 Commit 규칙
 
