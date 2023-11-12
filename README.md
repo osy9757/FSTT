@@ -61,7 +61,7 @@
 ## 📝 주차 별 문제
 
 <details>
-  <summary> <b>NOW</b> 11월 2주차 </summary>
+  <summary> 11월 2주차 </summary>
   <br>
   <table>
   <tr>
@@ -106,7 +106,7 @@
 </details>
 
 <details>
-  <summary>11월 3주차</summary>
+  <summary> <b>NOW</b> 11월 3주차</summary>
   <br>
   <table>
     <tr>
