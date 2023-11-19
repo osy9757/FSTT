@@ -109,7 +109,7 @@
 </details>
 
 <details>
-  <summary> <b>NOW</b> 11월 3주차</summary>
+  <summary> 11월 3주차</summary>
   <br>
   <table>
     <tr>
@@ -160,6 +160,64 @@
       <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120819" target="_blank"> 아이스 아메리카노 </a> <br>
           <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120816" target="_blank"> 피자 나눠먹기(3) </a> <br>
           <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120826" target="_blank"> 특정 문자 제거하기 </a>
+      </td>
+    </tr>
+  
+  </table>
+</details>
+
+<details>
+  <summary> <b>NOW(임시)</b> 11월 4주차</summary>
+  <br>
+  <table>
+    <tr>
+      <td> 11월 4주차(2023.11.20. ~ 2023. 11. 24. )</td>
+      <td>문제</td>
+    </tr>
+    <tr>
+      <td> 월(JAVA) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120847" target="_blank"> 최댓값 만들기 (1)</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120908" target="_blank"> 문자열안에 문자열 </a> <br>
+           <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120903" target="_blank"> 배열의 유사도 </a> 
+      </td>
+    </tr>
+    <tr>
+      <td> 화(SQL) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/164673" target="_blank"> 조건에 부합하는 중고거래 댓글 조회하기</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/157342" target="_blank"> 자동차 평균 대여 기간 구하기 </a>
+      </td>
+    </tr>
+    <tr>
+      <td> 수(JAVA) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120583" target="_blank"> 중복된 숫자 개수</a> <br>
+          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120818" target="_blank"> 옷가게 할인 받기 </a> <br>
+          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120821" target="_blank"> 배열 뒤집기 </a>
+      </td>
+    </tr>
+    <tr>
+      <td> 목(SQL) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/151136" target="_blank"> 평균 일일 대여 요금 구하기</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/144854" target="_blank"> 조건에 맞는 도서와 저자 리스트 출력하기</a> 
+      </td>
+    </tr>
+    <tr>
+      <td> 금(JAVA) </td>
+      <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120585" target="_blank"> 머쓱이보다 키 큰 사람 </a> <br>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120906" target="_blank"> 자릿수 더하기 </a> <br>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120822" target="_blank"> 문자열 뒤집기 </a>
+      </td>
+    </tr>
+    <tr>
+      <td> 토(SQL) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/133024" target="_blank"> 인기있는 아이스크림 </a> <br>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/151137" target="_blank"> 자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기</a>
+      </td>
+    </tr>
+    <tr>
+      <td> 일(JAVA) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120809" target="_blank"> 배열 두 배 만들기 </a> <br>
+          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120836" target="_blank"> 순서쌍의 개수 </a> <br>
+          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120833" target="_blank"> 배열 자르기 </a>
       </td>
     </tr>
   
