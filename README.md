@@ -167,7 +167,7 @@
 </details>
 
 <details>
-  <summary> <b>NOW(임시)</b> 11월 4주차</summary>
+  <summary> <b>NOW</b> 11월 4주차</summary>
   <br>
   <table>
     <tr>
@@ -184,7 +184,8 @@
     <tr>
       <td> 화(SQL) </td>
       <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/164673" target="_blank"> 조건에 부합하는 중고거래 댓글 조회하기</a> <br>
-            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/157342" target="_blank"> 자동차 평균 대여 기간 구하기 </a>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/157342" target="_blank"> 자동차 평균 대여 기간 구하기 </a> <br>
+        <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59404" target="_blank"> 여러 기준으로 정렬하기 </a> 
       </td>
     </tr>
     <tr>
@@ -197,7 +198,8 @@
     <tr>
       <td> 목(SQL) </td>
       <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/151136" target="_blank"> 평균 일일 대여 요금 구하기</a> <br>
-            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/144854" target="_blank"> 조건에 맞는 도서와 저자 리스트 출력하기</a> 
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/144854" target="_blank"> 조건에 맞는 도서와 저자 리스트 출력하기</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59035" target="_blank"> 역순 정렬하기</a> 
       </td>
     </tr>
     <tr>
@@ -210,7 +212,8 @@
     <tr>
       <td> 토(SQL) </td>
       <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/133024" target="_blank"> 인기있는 아이스크림 </a> <br>
-          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/151137" target="_blank"> 자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기</a>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/151137" target="_blank"> 자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기</a> <br>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59403" target="_blank"> 동물의 아이디와 이름</a>
       </td>
     </tr>
     <tr>
