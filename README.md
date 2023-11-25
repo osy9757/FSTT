@@ -227,6 +227,63 @@
   </table>
 </details>
 
+<details>
+  <summary> 11월 5주차</summary>
+  <br>
+  <table>
+    <tr>
+      <td> 11월 5주차(2023.11.27. ~ 2023. 12. 03. )</td>
+      <td>문제</td>
+    </tr>
+    <tr>
+      <td> 월(JAVA) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120824?language=java" target="_blank"> 짝수 홀수 개수</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181848" target="_blank"> 문자열을 정수로 변환하기 </a> <br>
+           <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120854" target="_blank"> 배열 원소의 길이 </a> 
+      </td>
+    </tr>
+    <tr>
+      <td> 화(SQL) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131528" target="_blank"> 나이 정보가 없는 회원 수 구하기</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131697" target="_blank"> 가장 비싼 상품 구하기 </a>
+      </td>
+    </tr>
+    <tr>
+      <td> 수(JAVA) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120849" target="_blank"> 모음 제거</a> <br>
+          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181876" target="_blank"> 소문자로 바꾸기 </a> <br>
+          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120813" target="_blank"> 짝수는 싫어요 </a>
+      </td>
+    </tr>
+    <tr>
+      <td> 목(SQL) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131114" target="_blank"> 경기도에 위치한 식품창고 목록 출력하기</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131112" target="_blank"> 강원도에 위치한 생산공장 목록 출력하기</a> 
+      </td>
+    </tr>
+    <tr>
+      <td> 금(JAVA) </td>
+      <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181854" target="_blank"> 배열의 길이에 따라 다른 연산하기 </a> <br>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120851" target="_blank"> 숨어있는 숫자의 덧셈 (1) </a> <br>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181840" target="_blank"> 정수 찾기 </a>
+      </td>
+    </tr>
+    <tr>
+      <td> 토(SQL) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/132203" target="_blank"> 흉부외과 또는 일반외과 의사 목록 출력하기 </a> <br>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59039" target="_blank"> 이름이 없는 동물의 아이디</a> 
+      </td>
+    </tr>
+    <tr>
+      <td> 일(JAVA) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120825" target="_blank"> 문자 반복 출력하기 </a> <br>
+          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120841" target="_blank"> 점의 위치 구하기 </a> <br>
+          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120909" target="_blank"> 제곱수 판별하기 </a>
+      </td>
+    </tr>
+  
+  </table>
+</details>
 
 
 ## 💻 Commit 규칙
