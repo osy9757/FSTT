@@ -167,7 +167,7 @@
 </details>
 
 <details>
-  <summary> <b>NOW</b> 11월 4주차</summary>
+  <summary> 11월 4주차</summary>
   <br>
   <table>
     <tr>
@@ -228,7 +228,7 @@
 </details>
 
 <details>
-  <summary> 11월 5주차</summary>
+  <summary> <b>NOW</b> 11월 5주차</summary>
   <br>
   <table>
     <tr>
