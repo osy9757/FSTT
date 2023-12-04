@@ -244,9 +244,9 @@
     </tr>
     <tr>
       <td> 화(SQL) </td>
-      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59047" target="_blank"> 이름에 el이 들어가는 동물 찾기</a> <br>
-            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59410" target="_blank"> NULL 처리하기 </a>
-      </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131528" target="_blank"> 나이 정보가 없는 회원 수 구하기</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131697" target="_blank"> 가장 비싼 상품 구하기 </a>
+      </td>     
     </tr>
     <tr>
       <td> 수(JAVA) </td>
@@ -257,10 +257,10 @@
     </tr>
     <tr>
       <td> 목(SQL) </td>
-      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59414" target="_blank"> DATETIME에서 DATE로 형 변환</a> <br>
-            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131115" target="_blank"> 가격이 제일 비싼 식품의 정보 출력하기</a> 
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131114" target="_blank"> 경기도에 위치한 식품창고 목록 출력하기</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131112" target="_blank"> 강원도에 위치한 생산공장 목록 출력하기</a> 
       </td>
-    </tr>
+         </tr>
     <tr>
       <td> 금(JAVA) </td>
       <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181854" target="_blank"> 배열의 길이에 따라 다른 연산하기 </a> <br>
@@ -270,8 +270,8 @@
     </tr>
     <tr>
       <td> 토(SQL) </td>
-      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131535" target="_blank"> 조건에 맞는 회원수 구하기 </a> <br>
-          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59409" target="_blank"> 중성화 여부 파악하기</a> 
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/132203" target="_blank"> 흉부외과 또는 일반외과 의사 목록 출력하기 </a> <br>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59039" target="_blank"> 이름이 없는 동물의 아이디</a> 
       </td>
     </tr>
     <tr>
@@ -301,8 +301,8 @@
     </tr>
     <tr>
       <td> 화(SQL) </td>
-      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131528" target="_blank"> 나이 정보가 없는 회원 수 구하기</a> <br>
-            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131697" target="_blank"> 가장 비싼 상품 구하기 </a>
+       <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59047" target="_blank"> 이름에 el이 들어가는 동물 찾기</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59410" target="_blank"> NULL 처리하기 </a>
       </td>
     </tr>
     <tr>
@@ -313,8 +313,8 @@
     </tr>
     <tr>
       <td> 목(SQL) </td>
-      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131114" target="_blank"> 경기도에 위치한 식품창고 목록 출력하기</a> <br>
-            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131112" target="_blank"> 강원도에 위치한 생산공장 목록 출력하기</a> 
+       <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59414" target="_blank"> DATETIME에서 DATE로 형 변환</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131115" target="_blank"> 가격이 제일 비싼 식품의 정보 출력하기</a> 
       </td>
     </tr>
     <tr>
@@ -325,8 +325,8 @@
     </tr>
     <tr>
       <td> 토(SQL) </td>
-      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/132203" target="_blank"> 흉부외과 또는 일반외과 의사 목록 출력하기 </a> <br>
-          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59039" target="_blank"> 이름이 없는 동물의 아이디</a> 
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131535" target="_blank"> 조건에 맞는 회원수 구하기 </a> <br>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59409" target="_blank"> 중성화 여부 파악하기</a> 
       </td>
     </tr>
     <tr>
