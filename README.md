@@ -286,11 +286,65 @@
 </details>
 
 <details>
-  <summary> <b>NOW</b> 12월 1주차</summary>
+  <summary> 12월 1주차</summary>
   <br>
   <table>
     <tr>
       <td> 12월 1주차(2023.12.04. ~ 2023. 12. 10. )</td>
+      <td>문제</td>
+    </tr>
+    <tr>
+      <td> 월(JAVA) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181873l" target="_blank"> 특정한 문자를 대문자로 바꾸기</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181946" target="_blank"> 문자열 붙여서 출력하기 </a> <br>
+      </td>
+    </tr>
+    <tr>
+      <td> 화(SQL) </td>
+       <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59047" target="_blank"> 이름에 el이 들어가는 동물 찾기</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59410" target="_blank"> NULL 처리하기 </a>
+      </td>
+    </tr>
+    <tr>
+      <td> 수(JAVA) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120910" target="_blank"> 세균 증식</a> <br>
+          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181940" target="_blank"> 문자열 곱하기 </a> <br>
+      </td>
+    </tr>
+    <tr>
+      <td> 목(SQL) </td>
+       <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59414" target="_blank"> DATETIME에서 DATE로 형 변환</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131115" target="_blank"> 가격이 제일 비싼 식품의 정보 출력하기</a> 
+      </td>
+    </tr>
+    <tr>
+      <td> 금(JAVA) </td>
+      <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181935" target="_blank"> 홀짝에 따라 다른 값 반환하기 </a> <br>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181937" target="_blank"> n의 배수 </a> <br>
+      </td>
+    </tr>
+    <tr>
+      <td> 토(SQL) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131535" target="_blank"> 조건에 맞는 회원수 구하기 </a> <br>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59409" target="_blank"> 중성화 여부 파악하기</a> 
+      </td>
+    </tr>
+    <tr>
+      <td> 일(JAVA) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181850" target="_blank"> 정수 부분 </a> <br>
+          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181879" target="_blank"> 길이에 따른 연산 </a> <br>
+      </td>
+    </tr>
+  
+  </table>
+</details>
+
+<details>
+  <summary> <b>NOW</b> 12월 2주차</summary>
+  <br>
+  <table>
+    <tr>
+      <td> 12월 2주차(2023.12.11. ~ 2023. 12. 17. )</td>
       <td>문제</td>
     </tr>
     <tr>
