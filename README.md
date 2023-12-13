@@ -338,7 +338,10 @@
   
   </table>
 </details>
-<summary> <b>휴무</b> 12월 2주차</summary>
+<details>
+  <summary> <b>휴무</b> 12월 2주차</summary>
+</details>
+
 <details>
   <summary> 12월 3주차</summary>
   <br>
