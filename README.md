@@ -349,8 +349,8 @@
     </tr>
     <tr>
       <td> 월(JAVA) </td>
-      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181936" target="_blank"> 공배수</a> <br>
-            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181933" target="_blank"> flag에 따라 다른 값 반환하기 </a> <br>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181933" target="_blank"> flag에 따라 다른 값 반환하기</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181936" target="_blank"> 공배수 </a> <br>
       </td>
     </tr>
     <tr>
@@ -361,8 +361,8 @@
     </tr>
     <tr>
       <td> 수(JAVA) </td>
-      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181939" target="_blank"> 더 크게 합치기</a> <br>
-          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181889" target="_blank"> n 번째 원소까지 </a> <br>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181944" target="_blank"> 홀짝 구분하기</a> <br>
+          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181939" target="_blank"> 더 크게 합치기 </a> <br>
       </td>
     </tr>
     <tr>
@@ -373,20 +373,20 @@
     </tr>
     <tr>
       <td> 금(JAVA) </td>
-      <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181884" target="_blank"> n보다 커질 때까지 더하기 </a> <br>
-          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181920" target="_blank"> 카운트 업 </a> <br>
+      <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181889" target="_blank"> n 번째 원소까지 </a> <br>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181927" target="_blank"> 마지막 두 원소 </a> <br>
       </td>
     </tr>
     <tr>
       <td> 토(SQL) </td>
-      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59415" target="_blank"> 최댓값 구하기 </a> <br>
-          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/157343" target="_blank"> 특정 옵션이 포함된 자동차 리스트 구하기</a> 
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131535" target="_blank"> 조건에 맞는 회원수 구하기 </a> <br>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59409" target="_blank"> 중성화 여부 파악하기</a> 
       </td>
     </tr>
     <tr>
       <td> 일(JAVA) </td>
-      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181927" target="_blank"> 마지막 두 원소 </a> <br>
-          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181845" target="_blank"> 문자열로 변환 </a> <br>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59415" target="_blank"> 최댓값 구하기 </a> <br>
+          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/157343" target="_blank"> 특정 옵션이 포함된 자동차 리스트 구하기 </a> <br>
       </td>
     </tr>
   
