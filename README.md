@@ -338,55 +338,55 @@
   
   </table>
 </details>
-
+<summary> <b>휴무</b> 12월 2주차</summary>
 <details>
-  <summary> <b>NOW</b> 12월 2주차</summary>
+  <summary> 12월 3주차</summary>
   <br>
   <table>
     <tr>
-      <td> 12월 2주차(2023.12.11. ~ 2023. 12. 17. )</td>
+      <td> 12월 3주차(2023.12.18. ~ 2023. 12. 24. )</td>
       <td>문제</td>
     </tr>
     <tr>
       <td> 월(JAVA) </td>
-      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181873l" target="_blank"> 특정한 문자를 대문자로 바꾸기</a> <br>
-            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181946" target="_blank"> 문자열 붙여서 출력하기 </a> <br>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181936" target="_blank"> 공배수</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181933" target="_blank"> flag에 따라 다른 값 반환하기 </a> <br>
       </td>
     </tr>
     <tr>
       <td> 화(SQL) </td>
-       <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59047" target="_blank"> 이름에 el이 들어가는 동물 찾기</a> <br>
-            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59410" target="_blank"> NULL 처리하기 </a>
+       <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/132201" target="_blank"> 12세 이하인 여자 환자 목록 출력하기</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/144853" target="_blank"> 조건에 맞는 도서 리스트 출력하기 </a>
       </td>
     </tr>
     <tr>
       <td> 수(JAVA) </td>
-      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120910" target="_blank"> 세균 증식</a> <br>
-          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181940" target="_blank"> 문자열 곱하기 </a> <br>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181939" target="_blank"> 더 크게 합치기</a> <br>
+          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181889" target="_blank"> n 번째 원소까지 </a> <br>
       </td>
     </tr>
     <tr>
       <td> 목(SQL) </td>
-       <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59414" target="_blank"> DATETIME에서 DATE로 형 변환</a> <br>
-            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131115" target="_blank"> 가격이 제일 비싼 식품의 정보 출력하기</a> 
+       <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59034" target="_blank"> 모든 레코드 조회하기</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/133025" target="_blank"> 과일로 만든 아이스크림 고르기</a> 
       </td>
     </tr>
     <tr>
       <td> 금(JAVA) </td>
-      <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181935" target="_blank"> 홀짝에 따라 다른 값 반환하기 </a> <br>
-          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181937" target="_blank"> n의 배수 </a> <br>
+      <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181884" target="_blank"> n보다 커질 때까지 더하기 </a> <br>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181920" target="_blank"> 카운트 업 </a> <br>
       </td>
     </tr>
     <tr>
       <td> 토(SQL) </td>
-      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131535" target="_blank"> 조건에 맞는 회원수 구하기 </a> <br>
-          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59409" target="_blank"> 중성화 여부 파악하기</a> 
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59415" target="_blank"> 최댓값 구하기 </a> <br>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/157343" target="_blank"> 특정 옵션이 포함된 자동차 리스트 구하기</a> 
       </td>
     </tr>
     <tr>
       <td> 일(JAVA) </td>
-      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181850" target="_blank"> 정수 부분 </a> <br>
-          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181879" target="_blank"> 길이에 따른 연산 </a> <br>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181927" target="_blank"> 마지막 두 원소 </a> <br>
+          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181845" target="_blank"> 문자열로 변환 </a> <br>
       </td>
     </tr>
   
