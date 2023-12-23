@@ -330,7 +330,7 @@
     <tr>
       <td> 토(SQL) </td>
       <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131535" target="_blank"> 조건에 맞는 회원수 구하기 </a> <br>
-          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59409" target="_blank"> 중성화 여부 파악하기</a> 
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59409" target="_blank"> 중성화 여부 파악하기</a>   
       </td>
     </tr>
     <tr>
