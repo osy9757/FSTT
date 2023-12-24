@@ -347,7 +347,7 @@
 </details>
 
 <details>
-  <summary> <b>NOW</b> 12월 3주차</summary>
+  <summary>12월 3주차</summary>
   <br>
   <table>
     <tr>
@@ -397,6 +397,60 @@
       </td>
     </tr>
   
+  </table>
+</details>
+
+<details>
+  <summary> <b>NOW</b> 12월 4주차</summary>
+  <br>
+  <table>
+    <tr>
+      <td> 12월 3주차(2023.12.18. ~ 2023. 12. 24. )</td>
+      <td>문제</td>
+    </tr>
+    <tr>
+      <td> 월(JAVA) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181888" target="_blank"> n개 간격의 원소들</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181843" target="_blank"> 부분 문자열인지 확인하기 </a> <br>
+      </td>
+    </tr>
+    <tr>
+      <td> 화(SQL) </td>
+       <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131529" target="_blank"> 카테고리 별 상품 개수 구하기</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59040" target="_blank"> 고양이와 개는 몇 마리 있을까 </a>
+      </td>
+    </tr>
+    <tr>
+      <td> 수(JAVA) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181907" target="_blank"> 문자열의 앞의 n글자</a> <br>
+          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181845" target="_blank"> 문자열로 변환 </a> <br>
+      </td>
+    </tr>
+    <tr>
+      <td> 목(SQL) </td>
+       <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/132202" target="_blank"> 진료과별 총 예약 횟수 출력하기</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59412" target="_blank"> 입양 시각 구하기(1)</a> 
+      </td>
+    </tr>
+    <tr>
+      <td> 금(JAVA) </td>
+      <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181928" target="_blank"> 이어 붙인 수 </a> <br>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181877" target="_blank"> 대문자로 바꾸기 </a> <br>
+      </td>
+    </tr>
+    <tr>
+      <td> 토(SQL) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131533" target="_blank"> 상품 별 오프라인 매출 구하기 </a> <br>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/133026" target="_blank"> 성분으로 구분한 아이스크림 총 주문량</a> 
+      </td>
+    </tr>
+    <tr>
+      <td> 일(JAVA) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181892" target="_blank"> n 번째 원소부터 </a> <br>
+          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/181841" target="_blank"> 꼬리 문자열 </a> <br>
+      </td>
+    </tr>
+
   </table>
 </details>
 
