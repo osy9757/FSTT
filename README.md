@@ -454,6 +454,61 @@
   </table>
 </details>
 
+<details>
+  <summary> 1월 1주차</summary>
+  <br>
+  <table>
+      <td>🎄 새해복 많이 받아~ 🎄</td>
+    <tr>
+      <td> 1월 1주차(2024.1.1. ~ 2024. 1. 7. )</td>
+      <td>문제</td>
+    </tr>
+    <tr>
+      <td> 월(JAVA) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120905" target="_blank"> n의 배수 고르기</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120893" target="_blank"> 대문자와 소문자 </a> <br>
+      </td>
+    </tr>
+    <tr>
+      <td> 화(SQL) </td>
+       <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/144855" target="_blank"> 카테고리 별 도서 판매량 집계하기</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59044" target="_blank"> 오랜 기간 보호한 동물(1) </a>
+      </td>
+    </tr>
+    <tr>
+      <td> 수(JAVA) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120839" target="_blank"> 가위 바위 보</a> <br>
+          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120837" target="_blank"> 개미 군단 </a> <br>
+      </td>
+    </tr>
+    <tr>
+      <td> 목(SQL) </td>
+       <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/151138" target="_blank"> 자동차 대여 기록에서 장기/단기 대여 구분하기</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59046" target="_blank"> 루시와 엘라 찾기</a> 
+      </td>
+    </tr>
+    <tr>
+      <td> 금(JAVA) </td>
+      <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120892" target="_blank"> 암호 해독 </a> <br>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120845" target="_blank"> 주사위의 개수 </a> <br>
+      </td>
+    </tr>
+    <tr>
+      <td> 토(SQL) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131120" target="_blank"> 3월에 태어난 여성 회원 목록 출력하기 </a> <br>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131530" target="_blank"> 가격대 별 상품 개수 구하기</a> 
+      </td>
+    </tr>
+    <tr>
+      <td> 일(JAVA) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120862" target="_blank"> 최댓값 만들기 (2)</a> <br>
+          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120899" target="_blank"> 가장 큰 수 찾기 </a> <br>
+      </td>
+    </tr>
+
+  </table>
+</details>
+
 
 ## 💻 Commit 규칙
 
