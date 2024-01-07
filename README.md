@@ -455,7 +455,7 @@
 </details>
 
 <details>
-  <summary> <b>NOW</b> 1월 1주차</summary>
+  <summary> 1월 1주차</summary>
   <br>
   <table>
       <td>🎄 새해복 많이 받아~ 🎄</td>
