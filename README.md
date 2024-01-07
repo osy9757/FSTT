@@ -509,6 +509,59 @@
   </table>
 </details>
 
+<details>
+  <summary> <b>NOW</b> 1월 2주차</summary>
+  <br>
+  <table>
+    <tr>
+      <td> 1월 2주차(2024.1.8. ~ 2024. 1. 14. )</td>
+      <td>문제</td>
+    </tr>
+    <tr>
+      <td> 월(JAVA) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120862?language=java" target="_blank"> 최댓값 만들기 (2)</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120899" target="_blank"> 가장 큰 수 찾기 </a> <br>
+      </td>
+    </tr>
+    <tr>
+      <td> 화(SQL) </td>
+       <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59411" target="_blank"> 오랜 기간 보호한 동물(2) </a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/164668" target="_blank"> 조건에 맞는 사용자와 총 거래금액 조회하기 </a>
+      </td>
+    </tr>
+    <tr>
+      <td> 수(JAVA) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120895" target="_blank"> 인덱스 바꾸기</a> <br>
+          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120850" target="_blank"> 문자열 정렬하기 (1) </a> <br>
+      </td>
+    </tr>
+    <tr>
+      <td> 목(SQL) </td>
+       <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/157341" target="_blank"> 대여 기록이 존재하는 자동차 리스트 구하기 </a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131536" target="_blank"> 재구매가 일어난 상품과 회원 리스트 구하기 </a> 
+      </td>
+    </tr>
+    <tr>
+      <td> 금(JAVA) </td>
+      <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120844" target="_blank"> 배열 회전시키기 </a> <br>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120897" target="_blank"> 약수 구하기 </a> <br>
+      </td>
+    </tr>
+    <tr>
+      <td> 토(SQL) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/164670" target="_blank"> 조건에 맞는 사용자 정보 조회하기 </a> <br>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/157340" target="_blank"> 자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기 </a> 
+      </td>
+    </tr>
+    <tr>
+      <td> 일(JAVA) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120834" target="_blank"> 외계행성의 나이 </a> <br>
+          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120904" target="_blank"> 숫자 찾기 </a> <br>
+      </td>
+    </tr>
+
+  </table>
+</details>
 
 ## 💻 Commit 규칙
 
