@@ -519,8 +519,8 @@
     </tr>
     <tr>
       <td> 월(JAVA) </td>
-      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120862?language=java" target="_blank"> 최댓값 만들기 (2)</a> <br>
-            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120899" target="_blank"> 가장 큰 수 찾기 </a> <br>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120815" target="_blank"> 피자 나눠 먹기 (2)</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120891" target="_blank"> 369 게임 </a> <br>
       </td>
     </tr>
     <tr>
