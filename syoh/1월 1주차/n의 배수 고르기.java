@@ -1,5 +1,4 @@
 import java.util.*;
-
 class Solution {
     public int[] solution(int n, int[] numlist) {
         List<Integer> tempAnswer = new ArrayList<>();
