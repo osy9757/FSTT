@@ -510,7 +510,7 @@
 </details>
 
 <details>
-  <summary> <b>NOW</b> 1월 2주차</summary>
+  <summary> 1월 2주차</summary>
   <br>
   <table>
     <tr>
@@ -557,6 +557,60 @@
       <td> 일(JAVA) </td>
       <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120834" target="_blank"> 외계행성의 나이 </a> <br>
           <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120904" target="_blank"> 숫자 찾기 </a> <br>
+      </td>
+    </tr>
+
+  </table>
+</details>
+
+<details>
+  <summary> <b>NOW</b> 1월 3주차</summary>
+  <br>
+  <table>
+    <tr>
+      <td> 1월 2주차(2024.1.15. ~ 2024. 1. 21. )</td>
+      <td>문제</td>
+    </tr>
+    <tr>
+      <td> 월(JAVA) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120911" target="_blank"> 문자열 정렬하기 (2)</a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120888" target="_blank"> 중복된 문자 제거 </a> <br>
+      </td>
+    </tr>
+    <tr>
+      <td> 화(SQL) </td>
+       <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59045" target="_blank"> 보호소에서 중성화한 동물 </a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/132204" target="_blank"> 취소되지 않은 진료 예약 조회하기 </a>
+      </td>
+    </tr>
+    <tr>
+      <td> 수(JAVA) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120842" target="_blank"> 2차원으로 만들기</a> <br>
+          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120886" target="_blank"> A로 B 만들기 </a> <br>
+      </td>
+    </tr>
+    <tr>
+      <td> 목(SQL) </td>
+       <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131532" target="_blank"> 년,월,성별 별 상품 구매 회원 수 구하기 </a> <br>
+            <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131118" target="_blank"> 서울에 위치한 식당 목록 출력하기 </a> 
+      </td>
+    </tr>
+    <tr>
+      <td> 금(JAVA) </td>
+      <td> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120848" target="_blank"> 팩토리얼 </a> <br>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120887" target="_blank"> K의 개수 </a> <br>
+      </td>
+    </tr>
+    <tr>
+      <td> 토(SQL) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/77487" target="_blank"> 헤비 유저가 소유한 장소 </a> <br>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/62284" target="_blank"> 우유와 요거트가 담긴 장바구니 </a> 
+      </td>
+    </tr>
+    <tr>
+      <td> 일(JAVA) </td>
+      <td> <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120838" target="_blank"> 모스부호 (1) </a> <br>
+          <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/120864" target="_blank"> 숨어있는 숫자의 덧셈 (2) </a> <br>
       </td>
     </tr>
 
