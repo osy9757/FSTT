@@ -564,7 +564,7 @@
 </details>
 
 <details>
-  <summary> <b>NOW</b> 1월 3주차</summary>
+  <summary> 1월 3주차</summary>
   <br>
   <table>
     <tr>
@@ -615,6 +615,10 @@
     </tr>
 
   </table>
+</details>
+
+<details>
+  <summary> <b>NOW</b> 1월 4주차 - 휴무</summary>
 </details>
 
 ## 💻 Commit 규칙
