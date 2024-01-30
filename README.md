@@ -621,6 +621,56 @@
   <summary> <b>NOW</b> 1월 4주차 - 휴무 </summary>
 </details>
 
+<details>
+  <summary> 2월 1주차</summary>
+  <br>
+  <table>
+    <tr>
+      <td> 2월 1주차(2024.1.29. ~ 2024. 2. 4. )</td>
+      <td>문제</td>
+    </tr>
+    <tr>
+      <td> 월(SQL) </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td> 화(PYTHON) </td>
+       <td> <a href = "https://www.acmicpc.net/problem/20500" target="_blank"> 20500. Ezreal 여눈부터 가네 ㅈㅈ </a> <br>
+            <a href = "https://www.acmicpc.net/problem/1041" target="_blank"> 1041. 주사위 </a>
+      </td>
+    </tr>
+    <tr>
+      <td> 수(SQL) </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td> 목(PYTHON) </td>
+       <td> <a href = "https://www.acmicpc.net/problem/1744" target="_blank"> 1744. 수 묶기 </a> <br>
+            <a href = "https://www.acmicpc.net/problem/24551" target="_blank"> 24551. 일이 너무 많아… </a> 
+      </td>
+    </tr>
+    <tr>
+      <td> 금(SQL) </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td> 토(PYTHON) </td>
+      <td> <a href = "https://www.acmicpc.net/problem/9527" target="_blank"> 9527. 1의 개수 세기 </a> <br>
+          <a href="https://www.acmicpc.net/problem/1983" target="_blank"> 1983. 숫자 박스 </a> 
+      </td>
+    </tr>
+    <tr>
+      <td> 일(SQL) </td>
+      <td>
+      </td>
+    </tr>
+
+  </table>
+</details>
+
 ## 💻 Commit 규칙
 
 ```
