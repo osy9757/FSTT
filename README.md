@@ -679,6 +679,64 @@
   </table>
 </details>
 
+<details>
+  <summary> 2월 2주차</summary>
+  <br>
+  <table>
+    <tr>
+      <td> 2월 2주차(2024.2.5. ~ 2024. 2. 11. )</td>
+      <td>문제</td>
+    </tr>
+    <tr>
+      <td> 월(SQL) </td>
+      <td>
+        <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131117" target="_blank"> 5월 식품들의 총매출 조회하기 </a> <br>
+        <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/164671" target="_blank"> 조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기 </a> <br>
+      </td>
+    </tr>
+    <tr>
+      <td> 화(PYTHON) </td>
+       <td> <a href = "https://www.acmicpc.net/problem/20500" target="_blank"> 20500. Ezreal 여눈부터 가네 ㅈㅈ </a> <br>
+            <a href = "https://www.acmicpc.net/problem/1041" target="_blank"> 1041. 주사위 </a>
+      </td>
+    </tr>
+    <tr>
+      <td> 수(SQL) </td>
+      <td>
+        <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/144856" target="_blank"> 저자 별 카테고리 별 매출액 집계하기 </a> <br>
+        <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/151139" target="_blank"> 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기 </a> <br>
+      </td>
+    </tr>
+    <tr>
+      <td> 목(PYTHON) </td>
+       <td> <a href = "https://www.acmicpc.net/problem/1744" target="_blank"> 1744. 수 묶기 </a> <br>
+            <a href = "https://www.acmicpc.net/problem/24551" target="_blank"> 24551. 일이 너무 많아… </a> 
+      </td>
+    </tr>
+    <tr>
+      <td> 금(SQL) </td>
+      <td>
+        <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/133027" target="_blank"> 주문량이 많은 아이스크림들 조회하기 </a> <br>
+        <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/131537" target="_blank"> 오프라인/온라인 판매 데이터 통합하기 </a> <br>
+      </td>
+    </tr>
+    <tr>
+      <td> 토(PYTHON) </td>
+      <td> <a href = "https://www.acmicpc.net/problem/9527" target="_blank"> 9527. 1의 개수 세기 </a> <br>
+          <a href="https://www.acmicpc.net/problem/1983" target="_blank"> 1983. 숫자 박스 </a> 
+      </td>
+    </tr>
+    <tr>
+      <td> 일(SQL) </td>
+      <td>
+        <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/59413" target="_blank"> 입양 시각 구하기(2) </a> <br>
+        <a href = "https://school.programmers.co.kr/learn/courses/30/lessons/157339" target="_blank"> 특정 기간동안 대여 가능한 자동차들의 대여비용 구하기 </a> <br>
+      </td>
+    </tr>
+
+  </table>
+</details>
+
 ## 💻 Commit 규칙
 
 ```
